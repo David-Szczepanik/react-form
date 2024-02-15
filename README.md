@@ -1,5 +1,5 @@
 # [WEBSITE](https://david-szczepanik.github.io/react-form/)
-by Github Pages
+*by Github Pages*
 
 ### `npm i`
 ### `npm start`
