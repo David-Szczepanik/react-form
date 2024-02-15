@@ -1,4 +1,4 @@
-# [WEBSITE](https://david-szczepanik.github.io/react-form/).
+# [WEBSITE](https://david-szczepanik.github.io/react-form/)
 by Github Pages
 
 ### `npm i`
